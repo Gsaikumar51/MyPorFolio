@@ -176,11 +176,6 @@ body {
   transition: all 0.3s ease;
 }
 
-/* Scale Effect on Hover */
-.home-image:hover {
-  /* transform: scale(1.05); */
-}
-
 
 /* About Section */
 .about {
